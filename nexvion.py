@@ -12,7 +12,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 OWNER = "uddinmdsamal-wq"
-VERSION = "1.0.0"
+VERSION = "v1.0.0"
 
 
 def banner():
